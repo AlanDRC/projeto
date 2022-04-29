@@ -63,7 +63,7 @@ export default function App() {
 
     <View style={styles.container}>
 
-      <Text style={styles.title}>Calculadora de IMC</Text>
+      <Text style={styles.title}>Cadastro Participante</Text>
 
       <View style={styles.inputContainer}>
 
